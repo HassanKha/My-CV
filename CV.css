@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #5bc0bc;
+  overflow-x: hidden;
+}
+h1 {
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  margin-left: 50px;
+  font-family: "Bangers", cursive;
+  letter-spacing: 30px;
+  font-size: 70px;
+  color: white;
+}
+#S {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 480px;
+}
+#O {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 530px;
+}
+#F {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 580px;
+}
+#T {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 620px;
+}
+#W {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 660px;
+}
+#A {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 720px;
+}
+#R {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 770px;
+}
+#E1 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 820px;
+}
+#E2 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 930px;
+}
+#N1 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 980px;
+}
+#G1 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1030px;
+}
+#I1 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1090px;
+}
+#N2 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1120px;
+}
+#N3 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1170px;
+}
+#E3 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1220px;
+}
+#R2 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1260px;
+}
+#I2 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1310px;
+}
+#N5 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1330px;
+}
+#G2 {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  margin: 630px 600px 600px 1380px;
+}
+
+a {
+  position: absolute;
+  text-align: center;
+  font-family: "Bangers", cursive;
+  font-size: 50px;
+  color: black;
+  margin: 800px;
+  background-color: azure;
+  border-radius: 10px;
+  padding: 15px;
+}
+a:hover {
+  color: brown;
+  text-decoration: none;
+}
